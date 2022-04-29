@@ -1,0 +1,13 @@
+.bidule{
+    font-weight: bold;
+    color: red;
+}
+body{
+    
+    font-family: open sans, arial;
+    color: rgb(45, 45, 45);
+    margin: 32px auto;
+    max-width: 800px;
+
+}
+
